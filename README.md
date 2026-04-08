@@ -5,34 +5,62 @@
 
 ## 💡 About Me
 
-I'm a Backend Developer focused on building scalable REST APIs using Node.js and Express.
-Currently improving my problem-solving skills with Data Structures & Algorithms.
+Backend Developer with real-world experience building scalable APIs, real-time systems, and production-ready applications.
+
+I focus on writing clean, secure, and maintainable backend code using modern architectures.
 
 ---
 
 ## 🛠 Tech Stack
 
-* Node.js
-* Express.js
+### 🔹 Backend
+
+* Node.js, Express.js
+* RESTful APIs
+* JWT Authentication & Security
+* WebSockets (Socket.io)
+
+### 🔹 Databases
+
 * MongoDB
-* SQL (MySQL / SQL Server)
-* REST APIs
+* MySQL
+* Oracle SQL
+
+### 🔹 Tools & DevOps
+
 * Git & GitHub
+* Docker
+* Postman
+
+### 🔹 Architecture
+
+* MVC Architecture
+* Microservices
+* OOP & Clean Code
 
 ---
 
 ## 🚀 Featured Projects
 
-* 🔹 Task Manager API (Auth + CRUD + Validation)
-* 🔹 E-commerce API (Users, Orders, Products)
+* 🔹 E-commerce API (Auth, Orders, Payments)
+* 🔹 Real-time Chat System (Socket.io)
+* 🔹 Educational Platform Backend (Production)
 * 🔹 Course Management CLI Tool
 
 ---
 
-## 📈 Currently Learning
+## 📈 Experience Highlights
 
-* Data Structures & Algorithms (LeetCode)
-* System Design Basics
+* Backend Engineer working on scalable production systems
+* Built and improved real-world platforms (E-commerce & Educational systems)
+* Focused on performance optimization and API security
+
+---
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* System Design
 
 ---
 
