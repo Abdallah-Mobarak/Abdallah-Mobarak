@@ -6,16 +6,16 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/abdallahmubarakafify">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://linkedin.com/in/abdallahmubarakafify" title="LinkedIn">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="46" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="https://leetcode.com/u/user9997Ky/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/user9997Ky/" title="LeetCode">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="46" alt="LeetCode" />
 </a>
-&nbsp;
-<a href="mailto:Abdallah.Mubarak.Afify@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+&nbsp;&nbsp;
+<a href="mailto:Abdallah.Mubarak.Afify@gmail.com" title="Email">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="46" alt="Email" />
 </a>
 
 </div>
