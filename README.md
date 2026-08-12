@@ -24,10 +24,12 @@
 
 **Backend engineer who ships systems that businesses run on — bookings & payments, ERP workflows, and real-time features. Five systems in production, and counting.**
 
-- 🔭 Currently building **I'm In** (teaching-platform backend) and **Bareeq** (field-ops platform + services marketplace)
-- 💳 Payments in production: gateway integrations, webhook/HMAC verification, commissions & revenue settlement
+- 🏗️ I own backend systems **end-to-end** — API design, data modeling, integrations, deployment, and keeping them healthy in production
+- 💳 Deep experience with **payments**: gateway integrations, webhook & HMAC verification, wallets, commissions, and revenue settlement
+- ⚡ **Real-time & async**: WebSockets, background jobs & scheduled processing, push notifications
+- 🔒 I care about **API security**, **clean architecture**, and code the next engineer can read
 - 🎓 On the side, I teach programming fundamentals to absolute beginners
-- 🌱 Deepening my **System Design** and **Data Structures & Algorithms**
+- 🌱 Currently deepening my **System Design** and **Data Structures & Algorithms**
 
 <br/>
 
