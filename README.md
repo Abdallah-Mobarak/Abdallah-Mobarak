@@ -22,12 +22,13 @@
 
 <br/>
 
-**Backend engineer who ships systems that businesses run on — bookings & payments, ERP workflows, and real-time features. Five systems in production, and counting.**
+**Backend engineer who ships systems that businesses run on — booking & payment platforms, marketplaces, ERP workflows and real-time features — for clients in Egypt and Saudi Arabia.**
 
 - 🏗️ I own backend systems **end-to-end** — API design, data modeling, integrations, deployment, and keeping them healthy in production
 - 💳 Deep experience with **payments**: gateway integrations, webhook & HMAC verification, wallets, commissions, and revenue settlement
-- ⚡ **Real-time & async**: WebSockets, background jobs & scheduled processing, push notifications
+- ⚡ **Real-time & async**: WebSockets (Socket.io + Redis adapter), scheduled jobs, push notifications
 - 🔒 I care about **API security**, **clean architecture**, and code the next engineer can read
+- ✅ **Testing & delivery**: integration tests (Supertest), GitHub Actions CI, Docker, OpenAPI docs
 - 🎓 On the side, I teach programming fundamentals to absolute beginners
 - 🌱 Currently deepening my **System Design** and **Data Structures & Algorithms**
 
@@ -37,9 +38,11 @@
 
 | System | What it does | Stack | Status |
 |--------|--------------|-------|:------:|
+| **Rawaaf** — short-stay booking (KSA) | Booking & payments, wallet, digital door keys, owner payouts, dynamic pricing, Nafath/Shomoos/Ewaa compliance, AI guest assistant | Node.js · Express 5 · Prisma · PostgreSQL · Docker · CI | 🔒 Client |
+| **Hay-Zak** — storage rental marketplace (KSA) | Two-sided marketplace: geo search (PostGIS), bookings, invoices, refunds, payouts, OTP + TOTP 2FA | Node.js · Express · Prisma · PostgreSQL/PostGIS · Docker | 🔒 Client |
 | **I'm In** — teaching platform | Bookings & payments, live events, referral program, ratings, push notifications, revenue-settlement engine | Node.js · Express · Sequelize · MySQL · Socket.io · FCM | 🟢 Live |
 | **Al-Mudaqiq** — ERP for audit firms | Engagement contracts, review guides, trial balance & financial statements, KPI dashboards, PDF/Excel reporting | Node.js · Express · Prisma · MySQL · Puppeteer | 🟢 Live |
-| **Bareeq** — field ops & marketplace | Field-visit management for companies + a services marketplace with wallet, payments & commission handling | Node.js · Express · Prisma · PostgreSQL · Redis · BullMQ | 🚀 Launching |
+| **Bareeq** — field ops & marketplace | Field-visit management for companies + a services marketplace with wallet, payments & commission handling | Node.js · Express · Prisma · PostgreSQL · PayTabs | 🚀 Launching |
 | [**Monye Track**](https://github.com/Abdallah-Mobarak/Monye-Track) | Personal money tracker — category budgets with smart daily limits, savings goals, RTL Arabic UI & dark mode | Node.js · Express · PostgreSQL · EJS | 🟢 Live |
 | [**Sadaqah Jariyah**](https://github.com/Abdallah-Mobarak/sadaqah-jariyah) | Quran reading & reward-dedication website — no accounts needed, Arabic-first | Node.js · Express · EJS | 🟢 Live |
 
@@ -62,7 +65,7 @@
   </tr>
 </table>
 
-REST APIs · JWT Auth · WebSockets (Socket.io) · Payment Gateways (Paymob · PayTabs) · Background Jobs (BullMQ · node-cron) · Clean Architecture
+REST APIs · JWT Auth · WebSockets (Socket.io) · Payment Gateways (Paymob · PayTabs) · Scheduled Jobs (node-cron) · Testing (Supertest) · CI (GitHub Actions) · Clean Architecture
 
 <br/>
 
